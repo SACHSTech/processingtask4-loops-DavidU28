@@ -15,7 +15,7 @@ public class Sketch extends PApplet {
     size(400, 400);
     
   }
-
+  
   /** 
    * Called once at the beginning of execution.  Add initial setup
    * values here i.e background, stroke, fill, etc.
